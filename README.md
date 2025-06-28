@@ -24,17 +24,17 @@ Here are a few things I've built recently:
 ### 🛍️ DRENCH E-Commerce Store  
 A responsive React-based online store with a product catalog, shopping cart, and Stripe checkout.  
 **Tech:** React, Context API, CSS Grid, Firebase, Stripe  
-🔗 [View Project](#) &nbsp; | &nbsp; 💻 [Code](#)
+🔗 [View Project](https://shopping-cart-psi-ochre.vercel.app/) &nbsp; | &nbsp; 💻 [Code](https://github.com/Delroy-Barnies/ShoppingCart)
 
 ### ✍️ The Shulamite Bride – Blog Platform  
 A blog site for a local writer, built using Vue.js and modular CSS, with a CMS for content editing.  
 **Tech:** Vue.js, Webpack, Firebase Hosting  
-🔗 [View Live](#) &nbsp; | &nbsp; 💻 [Repo](#)
+🔗 [View Live](https://lavernpoisson.github.io/TheShulamiteBride/) &nbsp; | &nbsp; 💻 [Repo](https://github.com/LavernPoisson/TheShulamiteBride)
 
 ### 📓 Mxit Messaging App  
 Messaging app inspired by mxit, built with Node.js and PostgreSql backend. React.js frontend. 
 **Tech:** Node.js, Express, PostgreSql, React.js  
-🔧 [In Progress](#)
+🔧 [In Progress](https://mxit.vercel.app/)
 
 ---
 
