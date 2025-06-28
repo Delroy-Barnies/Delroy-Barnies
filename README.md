@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi there! I'm Delroy
 
-<!--
-**Delroy-Barnies/Delroy-Barnies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught Fullstack Web Developer with a passion for creating beautiful, responsive, and user-focused web applications. I’ve been building apps, learning new tools, and sharpening my skills for over 3 years — now I'm looking for opportunities to bring that passion into a team and real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
+---
+
+## 💼 Projects
+
+Here are a few things I've built recently:
+
+### 🛍️ DRENCH E-Commerce Store  
+A responsive React-based online store with a product catalog, shopping cart, and Stripe checkout.  
+**Tech:** React, Context API, CSS Grid, Firebase, Stripe  
+🔗 [View Project](#) &nbsp; | &nbsp; 💻 [Code](#)
+
+### ✍️ The Shulamite Bride – Blog Platform  
+A blog site for a local writer, built using Vue.js and modular CSS, with a CMS for content editing.  
+**Tech:** Vue.js, Webpack, Firebase Hosting  
+🔗 [View Live](#) &nbsp; | &nbsp; 💻 [Repo](#)
+
+### 📓 Mxit Messaging App  
+Messaging app inspired by mxit, built with Node.js and PostgreSql backend. React.js frontend. 
+**Tech:** Node.js, Express, PostgreSql, React.js  
+🔧 [In Progress](#)
+
+---
+
+## 🌱 Currently Learning
+- Advanced React Patterns & Testing
+- Next.js
+- Clean architecture & scalable backend patterns
+
+---
+
+## 🤝 Let's Connect!
+Don't hesitate to reach out to me on these platforms
+- 🌐 [Portfolio Website](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/delroy-barnies-a6804123b)
+- 📨 Email: delroybarnies99@gmail.com
+
+---
+
+_“Small steps every day. Code. Learn. Improve.”_
