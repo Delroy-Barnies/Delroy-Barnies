@@ -1,6 +1,8 @@
 # 👋 Hi there! I'm Delroy
 
-I'm a self-taught Fullstack Web Developer with a passion for creating beautiful, responsive, and user-focused web applications. I’ve been building apps, learning new tools, and sharpening my skills for over 3 years — now I'm looking for opportunities to bring that passion into a team and real-world impact.
+I'm a self-taught Fullstack Web Developer with a strong passion for crafting beautiful, responsive, and user-focused web experiences. Over the past 3+ years, I’ve been building real-world applications, exploring modern tools, and constantly leveling up my skills.
+
+While I’m capable across the stack, my heart is in the frontend — where I can bring ideas to life visually and create interfaces that feel intuitive and meaningful. Now I’m ready to bring that passion and creativity into a team where I can contribute, learn, and make a real impact.
 
 ---
 
